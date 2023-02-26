@@ -1,0 +1,20 @@
+{
+  "foods": [
+    {
+      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png",
+      "name": "asdas",
+      "price": "12321",
+      "description": "asdfasdf",
+      "available": true,
+      "id": 4
+    },
+    {
+      "image": "asdf",
+      "name": "asdf",
+      "price": "adsfasd",
+      "description": "asdfasdf",
+      "available": true,
+      "id": 6
+    }
+  ]
+}
